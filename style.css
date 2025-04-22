@@ -71,6 +71,10 @@ section {
     text-align: left;
 }
 
+.about .about-content3 {
+    width: 50%;
+}
+
 .about .foto {
     position: absolute;
     width: 60%;
@@ -156,8 +160,8 @@ section {
 
 .gallery-content .inner3 {
     position: relative;
-    width: 30%;
-    height:30%;
+    width: 50%;
+    height: 50%;
     left: -160%;
     top: -50%;
     border-radius: 16px;
